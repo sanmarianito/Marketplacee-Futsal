@@ -1,0 +1,6 @@
+{
+  "name": "Marketplace de Fútbol, Futsal y Canchas",
+  "description": "Marketplace deportivo para fútbol y futsal con sistema de reservas de canchas en tiempo real, paneles de control para usuarios y vendedores, cobro de comisiones, análisis de tendencias con IA y notificaciones push.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
